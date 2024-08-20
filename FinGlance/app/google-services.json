@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367048879534",
+    "project_id": "finglance-964cb",
+    "storage_bucket": "finglance-964cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367048879534:android:39e56076a0736e8f4e6c3f",
+        "android_client_info": {
+          "package_name": "miki.learn.finglance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTwOzqhFcidiylbSu_Ws5XwMkKwy-ivE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

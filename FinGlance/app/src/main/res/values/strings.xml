@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinGlance</string>
+    <string name="default_web_client_id">367048879534-gmmdjst64klrdtejct9f0n45nm8sacbq.apps.googleusercontent.com</string>
+    <string name="portfolio_navigation_item">Portfolio</string>
+    <string name="search_navigation_item">Search</string>
+    <string name="profile_navigation_item">Profile</string>
+    <string name="login_text">Log In</string>
+    <string name="back_button_text">Back</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="sign_in_was_successful">Signed In Successfully</string>
+    <string name="signed_out_successfully">Signed Out Successfully</string>
+
+
+</resources>
