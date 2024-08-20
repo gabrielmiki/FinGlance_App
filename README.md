@@ -38,3 +38,5 @@ The Data layer contains the application's business logic, which is central to da
 - **Conflict Resolution:** Resolving conflicts that arise between multiple data sources.
 - **Abstraction:** Abstracting data sources to ensure flexibility and maintainability.
 - **Business Logic:** Containing and enforcing the core business rules of the application.
+
+https://github.com/user-attachments/assets/28adae01-246d-48fa-8953-348ca1e4e4f0
